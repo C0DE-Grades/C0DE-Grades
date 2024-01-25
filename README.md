@@ -1,6 +1,6 @@
 # Hello_World
 <body>
-  <p>Greetings, my name is Zane. I'm a student living in Hamilton, Ontario.<br>Currently learning how to code and possibly make a game of my own with a few friends of mine or by myself with my crappy century old laptop somehow.<br><br>Since it's a read me, I'm not really gonna put much effort to making it look fancy.</p>
+  <p>Greetings, my name is Zane. I'm a student living in Hamilton, Ontario.<br>Currently learning how to code and possibly make a game of my own with a friend or two of mine and/or by myself with my crappy century old laptop somehow.<br><br>Since it's a read me, I'm not really gonna put much effort to making it look fancy.</p>
 </body>
 
 # Skill_List
